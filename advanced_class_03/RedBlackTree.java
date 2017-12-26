@@ -8,8 +8,19 @@ package advanced_class_03;
  * @author Ignas Lelys
  * @created May 6, 2011
  * 
+
  */
 public class RedBlackTree extends AbstractSelfBalancingBinarySearchTree {
+
+
+
+
+
+
+
+
+
+
 
     protected enum ColorEnum {
         RED,
