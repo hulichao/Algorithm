@@ -9,6 +9,14 @@ public class Code_02_SkipList {
 		public Integer value;
 		public ArrayList<SkipListNode> nextNodes;
 
+
+
+
+
+
+
+
+
 		public SkipListNode(Integer value) {
 			this.value = value;
 			nextNodes = new ArrayList<SkipListNode>();
