@@ -9,9 +9,24 @@ package advanced_class_03;
  * from standart binary search tree can be reused for other kinds of binary
  * trees.
  * 
+
+
+
+
+
  * @author Ignas Lelys
+
+
+
+
+
  * @created Jun 29, 2011
  * 
+
+
+
+
+
  */
 public class AbstractBinarySearchTree {
 
