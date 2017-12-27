@@ -9,8 +9,21 @@ package advanced_class_03;
  * @author Ignas Lelys
  * @created Jul 24, 2011
  * 
+
+
  */
+
+
+
+
+
+
+
 public abstract class AbstractSelfBalancingBinarySearchTree extends AbstractBinarySearchTree {
+
+
+
+
 
     /**
      * Rotate to the left.
