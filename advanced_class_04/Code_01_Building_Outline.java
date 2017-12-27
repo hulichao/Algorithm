@@ -9,7 +9,20 @@ import java.util.TreeMap;
 
 public class Code_01_Building_Outline {
 
+
 	public static class Node {
+
+
+
+
+
+
+
+
+
+
+
+
 		public boolean isUp;
 		public int posi;
 		public int h;
