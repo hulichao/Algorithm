@@ -10,6 +10,9 @@ public class Code_05_LongestSumSubArrayLength {
 		}
 		HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
 		map.put(0, -1); // important
+
+
+
 		int len = 0;
 		int sum = 0;
 		for (int i = 0; i < arr.length; i++) {
