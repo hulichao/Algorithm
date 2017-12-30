@@ -8,9 +8,15 @@ public class Code_04_BiggestSubBSTInTree {
 		public Node right;
 
 		public Node(int data) {
+
 			this.value = data;
 		}
 	}
+
+
+
+
+
 
 	public static Node biggestSubBST(Node head) {
 		int[] record = new int[3]; // 0->size, 1->min, 2->max
