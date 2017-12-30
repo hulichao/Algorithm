@@ -10,7 +10,22 @@ public class Code_07_ExpressionCompute {
 
 	public static int[] value(char[] str, int i) {
 		LinkedList<String> que = new LinkedList<String>();
+
+
+
+
+
+
+
+
+
+
+
 		int pre = 0;
+
+
+
+
 		int[] bra = null;
 		while (i < str.length && str[i] != ')') {
 			if (str[i] >= '0' && str[i] <= '9') {
