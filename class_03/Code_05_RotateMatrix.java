@@ -12,6 +12,24 @@ public class Code_05_RotateMatrix {
 		}
 	}
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	public static void rotateEdge(int[][] m, int tR, int tC, int dR, int dC) {
 		int times = dC - tC; 
 		int tmp = 0;
