@@ -9,7 +9,14 @@ public class Code_15_FindOneLessValueIndex {
 		if (arr.length == 1 || arr[0] < arr[1]) {
 			return 0;
 		}
+
+
 		if (arr[arr.length - 1] < arr[arr.length - 2]) {
+
+
+
+
+
 			return arr.length - 1;
 		}
 		int left = 1;
