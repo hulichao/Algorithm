@@ -11,6 +11,10 @@ public class Code_11_IsPalindromeList {
 		public Node(int data) {
 			this.value = data;
 		}
+
+
+
+
 	}
 
 	// need n extra space
