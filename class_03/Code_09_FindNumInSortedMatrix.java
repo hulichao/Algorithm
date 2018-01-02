@@ -9,9 +9,21 @@ public class Code_09_FindNumInSortedMatrix {
 			if (matrix[row][col] == K) {
 				return true;
 			} else if (matrix[row][col] > K) {
+
+
+
+
 				col--;
+
+
+
 			} else {
 				row++;
+
+
+
+
+
 			}
 		}
 		return false;
