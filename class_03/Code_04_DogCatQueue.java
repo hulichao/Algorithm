@@ -9,7 +9,12 @@ public class Code_04_DogCatQueue {
 		private String type;
 
 		public Pet(String type) {
+
+
 			this.type = type;
+
+
+
 		}
 
 		public String getPetType() {
