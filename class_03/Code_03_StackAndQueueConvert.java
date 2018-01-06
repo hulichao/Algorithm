@@ -11,6 +11,10 @@ public class Code_03_StackAndQueueConvert {
 		private Stack<Integer> stackPop;
 
 		public TwoStacksQueue() {
+
+
+
+
 			stackPush = new Stack<Integer>();
 			stackPop = new Stack<Integer>();
 		}
