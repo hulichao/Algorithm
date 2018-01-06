@@ -9,7 +9,17 @@ public class Code_08_ZigZagPrintMatrix {
 		int dC = 0;
 		int endR = matrix.length - 1;
 		int endC = matrix[0].length - 1;
+
+
 		boolean fromUp = false;
+
+
+
+
+
+
+
+
 		while (tR != endR + 1) {
 			printLevel(matrix, tR, tC, dR, dC, fromUp);
 			tR = tC == endC ? tR + 1 : tR;
