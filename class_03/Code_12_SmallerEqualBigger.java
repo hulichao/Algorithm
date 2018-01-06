@@ -8,8 +8,14 @@ public class Code_12_SmallerEqualBigger {
 
 		public Node(int data) {
 			this.value = data;
+
+
 		}
 	}
+
+
+
+
 
 	public static Node listPartition1(Node head, int pivot) {
 		if (head == null) {
