@@ -8,10 +8,20 @@ public class Code_03_SuccessorNode {
 		public Node right;
 		public Node parent;
 
+
 		public Node(int data) {
 			this.value = data;
 		}
+
+
+
+
 	}
+
+
+
+
+
 
 	public static Node getSuccessorNode(Node node) {
 		if (node == null) {
