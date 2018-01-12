@@ -8,7 +8,15 @@ public class Code_04_MaxHappy {
 		int root = 0;
 		for (int i = 0; i < matrix.length; i++) {
 			if (i == matrix[i][0]) {
+
 				root = i;
+
+
+
+
+
+
+
 			}
 		}
 		process(matrix, dp, visited, root);
