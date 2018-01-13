@@ -8,9 +8,20 @@ public class Code_05_EnglishExpression {
 		}
 		String[] names = { "One ", "Two ", "Three ", "Four ", "Five ", "Six ",
 				"Seven ", "Eight ", "Nine ", "Ten ", "Eleven ", "Twelve ",
+
 				"Thirteen ", "Fourteen ", "Fifteen ", "Sixteen ", "Sixteen ",
 				"Eighteen ", "Nineteen " };
 		return names[num - 1];
+
+
+
+
+
+
+
+
+
+
 	}
 
 	public static String num1To99(int num) {
