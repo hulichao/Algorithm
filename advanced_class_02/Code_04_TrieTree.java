@@ -10,6 +10,13 @@ public class Code_04_TrieTree {
 		public TrieNode() {
 			path = 0;
 			end = 0;
+
+
+
+
+
+
+
 			map = new TrieNode[26];
 		}
 	}
