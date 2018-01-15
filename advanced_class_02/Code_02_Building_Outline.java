@@ -10,7 +10,18 @@ import java.util.TreeMap;
 // http://lintcode.com/zh-cn/problem/building-outline/
 public class Code_02_Building_Outline {
 	public static class Node {
+
+
+
+
+
+
+
 		public boolean be;
+
+
+
+
 		public int p;
 		public int h;
 
