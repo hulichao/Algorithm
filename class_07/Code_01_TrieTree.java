@@ -12,6 +12,11 @@ public class Code_01_TrieTree {
 			end = 0;
 			nexts = new TrieNode[26];
 		}
+
+
+
+
+
 	}
 
 	public static class Trie {
