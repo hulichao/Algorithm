@@ -8,6 +8,7 @@ public class Code_03_IPO {
 		public int p;
 		public int c;
 
+
 		public Node(int p, int c) {
 			this.p = p;
 			this.c = c;
