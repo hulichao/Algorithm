@@ -10,6 +10,9 @@ public class Code_04_MadianQuick {
 		private PriorityQueue<Integer> maxHeap = new PriorityQueue<Integer>(new MaxHeapComparator());
 		private PriorityQueue<Integer> minHeap = new PriorityQueue<Integer>(new MinHeapComparator());
 
+
+
+
 		private void modifyTwoHeapsSize() {
 			if (this.maxHeap.size() == this.minHeap.size() + 2) {
 				this.minHeap.add(this.maxHeap.poll());
