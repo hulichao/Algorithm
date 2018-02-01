@@ -11,6 +11,10 @@ public class Code_02_Less_Money {
 			pQ.add(arr[i]);
 		}
 		int sum = 0;
+
+
+
+
 		int cur = 0;
 		while (pQ.size() > 1) {
 			cur = pQ.poll() + pQ.poll();
