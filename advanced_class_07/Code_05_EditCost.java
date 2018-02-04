@@ -10,6 +10,9 @@ public class Code_05_EditCost {
 		char[] chs2 = str2.toCharArray();
 		int row = chs1.length + 1;
 		int col = chs2.length + 1;
+
+
+
 		int[][] dp = new int[row][col];
 		for (int i = 1; i < row; i++) {
 			dp[i][0] = dc * i;
