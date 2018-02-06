@@ -9,6 +9,8 @@ public class Code_01_BFS {
 	public static void bfs(Node node) {
 		if (node == null) {
 			return;
+
+
 		}
 		Queue<Node> queue = new LinkedList<>();
 		HashSet<Node> map = new HashSet<>();
