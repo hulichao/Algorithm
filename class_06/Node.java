@@ -10,6 +10,9 @@ public class Node {
 	public ArrayList<Edge> edges;
 
 	public Node(int value) {
+
+
+
 		this.value = value;
 		in = 0;
 		out = 0;
