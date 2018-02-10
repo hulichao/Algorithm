@@ -11,6 +11,10 @@ public class Code_02_DFS {
 		}
 		Stack<Node> stack = new Stack<>();
 		HashSet<Node> set = new HashSet<>();
+
+
+
+
 		stack.add(node);
 		set.add(node);
 		System.out.println(node.value);
