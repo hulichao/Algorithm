@@ -12,6 +12,11 @@ public class Code_03_Print_All_Subsquences {
 
 	public static void process(char[] chs, int i) {
 		if (i == chs.length) {
+
+
+
+
+
 			System.out.println(String.valueOf(chs));
 			return;
 		}
