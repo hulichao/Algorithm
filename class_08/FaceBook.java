@@ -12,6 +12,11 @@ public class FaceBook {
 		if (chs[i] == '1') {
 			int res = number(chs, i + 1);
 			if(i + 1 < chs.length) {
+
+
+
+
+
 				res += number(chs, i + 2);
 			}
 			return res;
