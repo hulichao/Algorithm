@@ -11,6 +11,10 @@ public class Code_04_Print_All_Permutations {
 
 	public static void process1(char[] chs, int i) {
 		if (i == chs.length) {
+
+
+
+
 			System.out.println(String.valueOf(chs));
 		}
 		for (int j = i; j < chs.length; j++) {
