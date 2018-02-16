@@ -10,6 +10,9 @@ public class Code_07_MinPath {
 		int res = matrix[i][j];
 		if (i == 0 && j == 0) {
 			return res;
+
+
+
 		}
 		if (i == 0 && j != 0) {
 			return res + process1(matrix, i, j - 1);
