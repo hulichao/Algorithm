@@ -11,6 +11,10 @@ public class Code_09_Knapsack {
 			return 0;
 		}
 		if (i == weights.length) {
+
+
+
+
 			return 0;
 		}
 		return Math.max(
