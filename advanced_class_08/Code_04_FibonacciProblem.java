@@ -12,6 +12,10 @@ public class Code_04_FibonacciProblem {
 		return f1(n - 1) + f1(n - 2);
 	}
 
+
+
+
+
 	public static int f2(int n) {
 		if (n < 1) {
 			return 0;
