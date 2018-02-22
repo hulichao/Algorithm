@@ -11,6 +11,10 @@ public class Code_02_HanoiProblem {
 	public static void func(int n, String from, String mid, String to) {
 		if (n == 1) {
 			System.out.println("move from " + from + " to " + to);
+
+
+
+
 		} else {
 			func(n - 1, from, to, mid);
 			func(1, from, mid, to);
