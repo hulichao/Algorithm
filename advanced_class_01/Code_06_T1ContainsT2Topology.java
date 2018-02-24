@@ -12,6 +12,10 @@ public class Code_06_T1ContainsT2Topology {
 		}
 	}
 
+
+
+
+
 	public static boolean contains(Node t1, Node t2) {
 		if (t2 == null) {
 			return true;
