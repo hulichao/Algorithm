@@ -11,6 +11,10 @@ public class Code_05_LongestSubarrayLessSumAwesomeSolution {
 		int[] sums = new int[arr.length];
 		HashMap<Integer, Integer> ends = new HashMap<Integer, Integer>();
 		sums[arr.length - 1] = arr[arr.length - 1];
+
+
+
+
 		ends.put(arr.length - 1, arr.length - 1);
 		for (int i = arr.length - 2; i >= 0; i--) {
 			if (sums[i + 1] < 0) {
