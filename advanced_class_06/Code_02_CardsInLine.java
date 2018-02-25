@@ -12,6 +12,11 @@ public class Code_02_CardsInLine {
 	public static int f(int[] arr, int i, int j) {
 		if (i == j) {
 			return arr[i];
+
+
+
+
+
 		}
 		return Math.max(arr[i] + s(arr, i + 1, j), arr[j] + s(arr, i, j - 1));
 	}
