@@ -9,6 +9,8 @@ public class Code_03_RegularExpressionMatch {
 			}
 		}
 		for (int i = 0; i < e.length; i++) {
+
+
 			if (e[i] == '*' && (i == 0 || e[i - 1] == '*')) {
 				return false;
 			}
