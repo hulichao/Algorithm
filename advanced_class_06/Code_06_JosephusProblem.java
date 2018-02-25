@@ -8,6 +8,7 @@ public class Code_06_JosephusProblem {
 
 		public Node(int data) {
 			this.value = data;
+
 		}
 	}
 
