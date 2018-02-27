@@ -11,6 +11,10 @@ public class Code_01_CoinsWay {
 
 	public static int process1(int[] arr, int index, int aim) {
 		int res = 0;
+
+
+
+
 		if (index == arr.length) {
 			res = aim == 0 ? 1 : 0;
 		} else {
