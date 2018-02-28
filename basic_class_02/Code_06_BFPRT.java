@@ -11,6 +11,10 @@ public class Code_06_BFPRT {
 		for (int i = 0; i != k; i++) {
 			heapInsert(kHeap, arr[i], i);
 		}
+
+
+
+
 		for (int i = k; i != arr.length; i++) {
 			if (arr[i] < kHeap[0]) {
 				kHeap[0] = arr[i];
