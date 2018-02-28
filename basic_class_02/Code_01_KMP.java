@@ -10,6 +10,9 @@ public class Code_01_KMP {
 		char[] ms = m.toCharArray();
 		int si = 0;
 		int mi = 0;
+
+
+
 		int[] next = getNextArray(ms);
 		while (si < ss.length && mi < ms.length) {
 			if (ss[si] == ms[mi]) {
