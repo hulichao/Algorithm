@@ -9,6 +9,8 @@ public class Code_04_Manacher {
 		for (int i = 0; i != res.length; i++) {
 			res[i] = (i & 1) == 0 ? '#' : charArr[index++];
 		}
+
+
 		return res;
 	}
 
