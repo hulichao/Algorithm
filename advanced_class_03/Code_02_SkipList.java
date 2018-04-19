@@ -17,6 +17,7 @@ public class Code_02_SkipList {
 
 
 
+
 		public SkipListNode(Integer value) {
 			this.value = value;
 			nextNodes = new ArrayList<SkipListNode>();
