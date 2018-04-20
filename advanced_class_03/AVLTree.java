@@ -11,6 +11,14 @@ package advanced_class_03;
  * insertion, and deletion all take O(log n) time in both the average and worst
  * cases, where n is the number of nodes in the tree prior to the operation.
  * Insertions and deletions may require the tree to be rebalanced by one or more
+
+
+
+
+
+
+
+
  * tree rotations.
  * 
  * @author Ignas Lelys
