@@ -8,8 +8,12 @@ public class Code_06_Most_EOR {
 		int ans = 0;
 		int xor = 0;
 		int[] mosts = new int[arr.length];
+
 		HashMap<Integer, Integer> map = new HashMap<>();
 		map.put(0, -1);
+
+
+
 		for (int i = 0; i < arr.length; i++) {
 			xor ^= arr[i];
 			if (map.containsKey(xor)) {
