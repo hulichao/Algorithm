@@ -9,6 +9,8 @@ public class Code_03_LFU {
 		public Integer value;
 		public Integer times;
 		public Node up;
+
+
 		public Node down;
 
 
