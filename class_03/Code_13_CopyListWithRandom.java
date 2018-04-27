@@ -10,6 +10,17 @@ public class Code_13_CopyListWithRandom {
 		public Node rand;
 
 		public Node(int data) {
+
+
+
+
+
+
+
+
+
+
+
 			this.value = data;
 		}
 	}
