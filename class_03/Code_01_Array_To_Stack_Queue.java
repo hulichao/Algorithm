@@ -8,7 +8,14 @@ public class Code_01_Array_To_Stack_Queue {
 
 		public ArrayStack(int initSize) {
 			if (initSize < 0) {
+
 				throw new IllegalArgumentException("The init size is less than 0");
+
+
+
+
+
+
 			}
 			arr = new Integer[initSize];
 			size = 0;
