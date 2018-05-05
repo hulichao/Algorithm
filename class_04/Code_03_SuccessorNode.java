@@ -9,6 +9,7 @@ public class Code_03_SuccessorNode {
 		public Node parent;
 
 
+
 		public Node(int data) {
 			this.value = data;
 		}
