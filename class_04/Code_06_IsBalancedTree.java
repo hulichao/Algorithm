@@ -8,8 +8,16 @@ public class Code_06_IsBalancedTree {
 		public Node right;
 
 		public Node(int data) {
+
 			this.value = data;
 		}
+
+
+
+
+
+
+
 	}
 
 	public static boolean isBalance(Node head) {
