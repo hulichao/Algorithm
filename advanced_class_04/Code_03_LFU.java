@@ -13,16 +13,7 @@ public class Code_03_LFU {
 
 		public Node down;
 
-
-
-
-
 		public Node(int key, int value, int times) {
-
-
-
-
-
 			this.key = key;
 			this.value = value;
 			this.times = times;
