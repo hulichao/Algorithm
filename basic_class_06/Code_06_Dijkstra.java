@@ -1,5 +1,4 @@
-// package class_06;
-
+package basic_class_06;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map.Entry;

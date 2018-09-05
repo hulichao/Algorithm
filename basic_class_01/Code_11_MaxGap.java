@@ -49,7 +49,7 @@ public class Code_11_MaxGap {
 		return res;
 	}
 
-	public static int bucket(long num, long len, long min, long  ) {
+	public static int bucket(long num, long len, long min, long max ) {
 		return (int) ((num - min) * len / (max - min));
 	}
 
