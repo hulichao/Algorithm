@@ -10,16 +10,6 @@ public class Code_09_Comparator {
 		public int id;
 		public int age;
 
-
-
-
-
-
-
-
-
-
-
 		public Student(String name, int id, int age) {
 			this.name = name;
 			this.id = id;

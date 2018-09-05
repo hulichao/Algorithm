@@ -2,70 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c935fd4-6965-4343-8141-db097c9c8aea" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/class_03/Code_05_RotateMatrix.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/class_03/Code_11_IsPalindromeList$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/class_03/Code_11_IsPalindromeList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/class_07/Code_05_LowestLexicography$MyComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/class_07/Code_05_LowestLexicography.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/class_08/Code_03_Print_All_Subsquences.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/class_08/Code_04_Print_All_Permutations.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_03/Code_01_Array_To_Stack_Queue.java" afterPath="$PROJECT_DIR$/basic_class_03/Code_01_Array_To_Stack_Queue.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_03/Code_02_GetMinStack.java" afterPath="$PROJECT_DIR$/basic_class_03/Code_02_GetMinStack.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_03/Code_03_StackAndQueueConvert.java" afterPath="$PROJECT_DIR$/basic_class_03/Code_03_StackAndQueueConvert.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_03/Code_04_DogCatQueue.java" afterPath="$PROJECT_DIR$/basic_class_03/Code_04_DogCatQueue.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_03/Code_05_RotateMatrix.java" afterPath="$PROJECT_DIR$/basic_class_03/Code_05_RotateMatrix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_03/Code_06_PrintMatrixSpiralOrder.java" afterPath="$PROJECT_DIR$/basic_class_03/Code_06_PrintMatrixSpiralOrder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_03/Code_07_ReverseList.java" afterPath="$PROJECT_DIR$/basic_class_03/Code_07_ReverseList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_03/Code_08_ZigZagPrintMatrix.java" afterPath="$PROJECT_DIR$/basic_class_03/Code_08_ZigZagPrintMatrix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_03/Code_09_FindNumInSortedMatrix.java" afterPath="$PROJECT_DIR$/basic_class_03/Code_09_FindNumInSortedMatrix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_03/Code_10_PrintCommonPart.java" afterPath="$PROJECT_DIR$/basic_class_03/Code_10_PrintCommonPart.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_03/Code_11_IsPalindromeList.java" afterPath="$PROJECT_DIR$/basic_class_03/Code_11_IsPalindromeList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_03/Code_12_SmallerEqualBigger.java" afterPath="$PROJECT_DIR$/basic_class_03/Code_12_SmallerEqualBigger.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_03/Code_13_CopyListWithRandom.java" afterPath="$PROJECT_DIR$/basic_class_03/Code_13_CopyListWithRandom.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_03/Code_14_FindFirstIntersectNode.java" afterPath="$PROJECT_DIR$/basic_class_03/Code_14_FindFirstIntersectNode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_03/Code_15_FindOneLessValueIndex.java" afterPath="$PROJECT_DIR$/basic_class_03/Code_15_FindOneLessValueIndex.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_04/Code_01_PreInPosTraversal.java" afterPath="$PROJECT_DIR$/basic_class_04/Code_01_PreInPosTraversal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_04/Code_02_PrintBinaryTree.java" afterPath="$PROJECT_DIR$/basic_class_04/Code_02_PrintBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_04/Code_03_SuccessorNode.java" afterPath="$PROJECT_DIR$/basic_class_04/Code_03_SuccessorNode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_04/Code_04_SerializeAndReconstructTree.java" afterPath="$PROJECT_DIR$/basic_class_04/Code_04_SerializeAndReconstructTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_04/Code_05_PaperFolding.java" afterPath="$PROJECT_DIR$/basic_class_04/Code_05_PaperFolding.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_04/Code_06_IsBalancedTree.java" afterPath="$PROJECT_DIR$/basic_class_04/Code_06_IsBalancedTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_04/Code_07_IsBSTAndCBT.java" afterPath="$PROJECT_DIR$/basic_class_04/Code_07_IsBSTAndCBT.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_04/Code_08_CompleteTreeNodeNumber.java" afterPath="$PROJECT_DIR$/basic_class_04/Code_08_CompleteTreeNodeNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_05/Code_01_HashMap.java" afterPath="$PROJECT_DIR$/basic_class_05/Code_01_HashMap.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_05/Code_02_RandomPool.java" afterPath="$PROJECT_DIR$/basic_class_05/Code_02_RandomPool.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_05/Code_03_Islands.java" afterPath="$PROJECT_DIR$/basic_class_05/Code_03_Islands.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_05/Code_04_UnionFind.java" afterPath="$PROJECT_DIR$/basic_class_05/Code_04_UnionFind.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_06/Code_01_BFS.java" afterPath="$PROJECT_DIR$/basic_class_06/Code_01_BFS.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_06/Code_02_DFS.java" afterPath="$PROJECT_DIR$/basic_class_06/Code_02_DFS.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_06/Code_03_TopologySort.java" afterPath="$PROJECT_DIR$/basic_class_06/Code_03_TopologySort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_06/Code_04_Kruskal.java" afterPath="$PROJECT_DIR$/basic_class_06/Code_04_Kruskal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_06/Code_05_Prim.java" afterPath="$PROJECT_DIR$/basic_class_06/Code_05_Prim.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_06/Code_06_Dijkstra.java" afterPath="$PROJECT_DIR$/basic_class_06/Code_06_Dijkstra.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_06/Edge.java" afterPath="$PROJECT_DIR$/basic_class_06/Edge.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_06/Graph.java" afterPath="$PROJECT_DIR$/basic_class_06/Graph.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_06/GraphGenerator.java" afterPath="$PROJECT_DIR$/basic_class_06/GraphGenerator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_06/Node.java" afterPath="$PROJECT_DIR$/basic_class_06/Node.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_07/Code_01_TrieTree.java" afterPath="$PROJECT_DIR$/basic_class_07/Code_01_TrieTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_07/Code_02_Less_Money.java" afterPath="$PROJECT_DIR$/basic_class_07/Code_02_Less_Money.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_07/Code_03_IPO.java" afterPath="$PROJECT_DIR$/basic_class_07/Code_03_IPO.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_07/Code_04_MadianQuick.java" afterPath="$PROJECT_DIR$/basic_class_07/Code_04_MadianQuick.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_07/Code_05_LowestLexicography.java" afterPath="$PROJECT_DIR$/basic_class_07/Code_05_LowestLexicography.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_07/Code_06_BestArrange.java" afterPath="$PROJECT_DIR$/basic_class_07/Code_06_BestArrange.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_07/test.java" afterPath="$PROJECT_DIR$/basic_class_07/test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_08/Code_01_Factorial.java" afterPath="$PROJECT_DIR$/basic_class_08/Code_01_Factorial.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_08/Code_02_Hanoi.java" afterPath="$PROJECT_DIR$/basic_class_08/Code_02_Hanoi.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_08/Code_03_Print_All_Subsquences.java" afterPath="$PROJECT_DIR$/basic_class_08/Code_03_Print_All_Subsquences.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_08/Code_04_Print_All_Permutations.java" afterPath="$PROJECT_DIR$/basic_class_08/Code_04_Print_All_Permutations.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_08/Code_05_Cow.java" afterPath="$PROJECT_DIR$/basic_class_08/Code_05_Cow.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_08/Code_06_ReverseStackUsingRecursive.java" afterPath="$PROJECT_DIR$/basic_class_08/Code_06_ReverseStackUsingRecursive.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_08/Code_07_MinPath.java" afterPath="$PROJECT_DIR$/basic_class_08/Code_07_MinPath.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_08/Code_08_Money_Problem.java" afterPath="$PROJECT_DIR$/basic_class_08/Code_08_Money_Problem.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_08/Code_09_Knapsack.java" afterPath="$PROJECT_DIR$/basic_class_08/Code_09_Knapsack.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_08/FaceBook.java" afterPath="$PROJECT_DIR$/basic_class_08/FaceBook.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_08/MyPermutation.java" afterPath="$PROJECT_DIR$/basic_class_08/MyPermutation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class_08/Test.java" afterPath="$PROJECT_DIR$/basic_class_08/Test.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic_class_01/Code_02_SelectionSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic_class_01/Code_03_HeapSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic_class_01/Code_04_QuickSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic_class_01/Code_09_Comparator$AgeAscendingComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic_class_01/Code_09_Comparator$AgeDescendingComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic_class_01/Code_09_Comparator$IdAscendingComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic_class_01/Code_09_Comparator$IdDescendingComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic_class_01/Code_09_Comparator$Student.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic_class_01/Code_09_Comparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic_class_01/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic_class_01/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic_class_02/Code_01_KMP.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic_class_02/Code_03_KMP_T1SubtreeEqualsT2$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic_class_02/Code_03_KMP_T1SubtreeEqualsT2.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced_class_01/Code_01_GetMax.java" afterPath="$PROJECT_DIR$/advanced_class_01/Code_01_GetMax.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced_class_01/Code_02_HanoiProblem.java" afterPath="$PROJECT_DIR$/advanced_class_01/Code_02_HanoiProblem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced_class_01/Code_03_LongestPathSum.java" afterPath="$PROJECT_DIR$/advanced_class_01/Code_03_LongestPathSum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced_class_01/Code_05_IsBalancedTree.java" afterPath="$PROJECT_DIR$/advanced_class_01/Code_05_IsBalancedTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced_class_01/Code_06_T1ContainsT2Topology.java" afterPath="$PROJECT_DIR$/advanced_class_01/Code_06_T1ContainsT2Topology.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced_class_01/Code_07_ExpressionCompute.java" afterPath="$PROJECT_DIR$/advanced_class_01/Code_07_ExpressionCompute.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced_class_01/Code_08_MaxDistanceInTree.java" afterPath="$PROJECT_DIR$/advanced_class_01/Code_08_MaxDistanceInTree.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,11 +37,31 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code_09_Comparator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basic_class_01/Code_09_Comparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code_08_NetherlandsFlag.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic_class_01/Code_08_NetherlandsFlag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -96,6 +75,14 @@
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/advanced_class_01/Code_01_GetMax.java" />
+        <option value="$PROJECT_DIR$/basic_class_01/Code_09_Comparator.java" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -124,9 +111,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -148,6 +135,7 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -404,6 +392,7 @@
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -532,6 +521,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -558,43 +553,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536134381200</updated>
-      <workItem from="1536134382496" duration="145000" />
+      <workItem from="1536134382496" duration="349000" />
+      <workItem from="1536134743190" duration="194000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="145000" />
+    <option name="totallyTimeSpent" value="543000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32921812" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30686694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -609,10 +605,42 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/advanced_class_01/Code_01_GetMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_class_01/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-483">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_class_01/Code_08_NetherlandsFlag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_class_01/Code_09_Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
