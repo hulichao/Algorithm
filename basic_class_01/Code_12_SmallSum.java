@@ -1,6 +1,47 @@
-// package basic_class_01;
+ package basic_class_01;
 
 public class Code_12_SmallSum {
+
+
+	//myshelf
+	public static int smallSum2(int[] nums) {
+		if (nums == null || nums.length < 2)
+			return 0;
+
+		return mergeSort(nums, 0, nums.length - 1);
+	}
+
+	private static int  mergeSort2(int[] nums, int l, int r) {
+		if (l == r)
+			return 0;
+		int mid = l + ((r - l) >> 1);
+		return mergeSort2(nums, l , mid) + mergeSort2(nums, mid + 1, r) + merge2(nums, l, mid, r);
+	}
+
+	private static int merge2(int [] nums, int l, int m, int r) {
+		int[] help = new int[r - l + 1];
+		int i = 0;
+		int p1 = l;
+		int p2 = m + 1;
+		int res = 0;
+		while (p1 <= m && p2 <= r) {
+			if (nums[p1] < nums[p2]) {
+				res += nums[p1] * (r - l + 1);
+				help[i++] = nums[p1++];
+			}else {
+				help[i++] = nums[p2++];
+			}
+		}
+		while(p1 <= m) {
+			help[i++] = nums[p1++];
+		}
+
+		while(p2 <= r) {
+			help[i++] = nums[p2++];
+		}
+
+		return res;
+	}
 
 	public static int smallSum(int[] arr) {
 		if (arr == null || arr.length < 2) {
@@ -113,7 +154,7 @@ public class Code_12_SmallSum {
 		for (int i = 0; i < testTime; i++) {
 			int[] arr1 = generateRandomArray(maxSize, maxValue);
 			int[] arr2 = copyArray(arr1);
-			if (smallSum(arr1) != comparator(arr2)) {
+			if (smallSum2(arr1) != comparator(arr2)) {
 				succeed = false;
 				printArray(arr1);
 				printArray(arr2);
