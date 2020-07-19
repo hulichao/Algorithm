@@ -2,138 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2c3852b-79b6-4df6-817c-bff510b463fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/template/RecursionTemplate.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_01/Code_01_GetMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_01/Code_01_GetMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_01/Code_02_HanoiProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_01/Code_02_HanoiProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_01/Code_03_LongestPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_01/Code_03_LongestPathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_01/Code_05_IsBalancedTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_01/Code_05_IsBalancedTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_01/Code_06_T1ContainsT2Topology.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_01/Code_06_T1ContainsT2Topology.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_01/Code_07_ExpressionCompute.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_01/Code_07_ExpressionCompute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_01/Code_08_MaxDistanceInTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_01/Code_08_MaxDistanceInTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_02/Code_01_LeastRecentlyUsedCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_02/Code_01_LeastRecentlyUsedCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_02/Code_02_Building_Outline.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_02/Code_02_Building_Outline.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_02/Code_03_FindNewTypeChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_02/Code_03_FindNewTypeChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_02/Code_04_TrieTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_02/Code_04_TrieTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_02/Code_05_EnglishExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_02/Code_05_EnglishExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_02/Code_06_ChineseExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_02/Code_06_ChineseExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_02/Code_07_ThrowChessPiecesProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_02/Code_07_ThrowChessPiecesProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_03/AVLTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_03/AVLTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_03/AbstractBinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_03/AbstractBinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_03/AbstractSelfBalancingBinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_03/AbstractSelfBalancingBinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_03/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_03/BinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_03/Code_01_MorrisTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_03/Code_01_MorrisTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_03/Code_02_SkipList.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_03/Code_02_SkipList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_03/RedBlackTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_03/RedBlackTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_04/Code_01_Building_Outline.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_04/Code_01_Building_Outline.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_04/Code_02_LRU.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_04/Code_02_LRU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_04/Code_03_LFU.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_04/Code_03_LFU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_04/Code_04_BiggestSubBSTInTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_04/Code_04_BiggestSubBSTInTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_04/Code_05_LongestSumSubArrayLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_04/Code_05_LongestSumSubArrayLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_04/Code_06_Most_EOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_04/Code_06_Most_EOR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_04/Code_07_ExpressionCompute.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_04/Code_07_ExpressionCompute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_05/Code_01_IsBSTAndCBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_05/Code_01_IsBSTAndCBT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_05/Code_02_IsBalancedTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_05/Code_02_IsBalancedTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_05/Code_03_MaxDistanceInTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_05/Code_03_MaxDistanceInTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_05/Code_04_MaxHappy.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_05/Code_04_MaxHappy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_05/Code_05_Max_EOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_05/Code_05_Max_EOR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_05/Code_06_CompleteTreeNodeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_05/Code_06_CompleteTreeNodeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_06/Code_01_CoinsWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_06/Code_01_CoinsWay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_06/Code_02_CardsInLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_06/Code_02_CardsInLine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_06/Code_03_RegularExpressionMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_06/Code_03_RegularExpressionMatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_06/Code_04_LongestSumSubArrayLengthInPositiveArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_06/Code_04_LongestSumSubArrayLengthInPositiveArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_06/Code_05_LongestSubarrayLessSumAwesomeSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_06/Code_05_LongestSubarrayLessSumAwesomeSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_06/Code_06_JosephusProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_06/Code_06_JosephusProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_07/Code_01_MinPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_07/Code_01_MinPathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_07/Code_02_LIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_07/Code_02_LIS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_07/Code_03_LCSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_07/Code_03_LCSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_07/Code_04_LCSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_07/Code_04_LCSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_07/Code_05_EditCost.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_07/Code_05_EditCost.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_07/Code_06_PalindromeMinCut.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_07/Code_06_PalindromeMinCut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_07/Code_07_StringCross.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_07/Code_07_StringCross.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_07/Code_08_ParenthesesProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_07/Code_08_ParenthesesProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_08/Code_01_TopKSumCrossTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_08/Code_01_TopKSumCrossTwoArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_08/Code_02_MaxSubMatrixSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_08/Code_02_MaxSubMatrixSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_08/Code_03_MaxOneBorderSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_08/Code_03_MaxOneBorderSize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_08/Code_04_FibonacciProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_08/Code_04_FibonacciProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_08/Code_05_LongestNoRepeatSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_08/Code_05_LongestNoRepeatSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_class_08/Code_06_ShuffleProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance/advanced_class_08/Code_06_ShuffleProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_01/Code_00_BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_01/Code_00_BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_01/Code_01_InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_01/Code_01_InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_01/Code_02_SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_01/Code_02_SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_01/Code_03_HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_01/Code_03_HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_01/Code_04_QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_01/Code_04_QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_01/Code_05_MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_01/Code_05_MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_01/Code_06_BucketSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_01/Code_06_BucketSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_01/Code_07_RadixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_01/Code_07_RadixSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_01/Code_08_NetherlandsFlag.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_01/Code_08_NetherlandsFlag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_01/Code_09_Comparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_01/Code_09_Comparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_01/Code_10_GetAllNotIncluded.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_01/Code_10_GetAllNotIncluded.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_01/Code_11_MaxGap.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_01/Code_11_MaxGap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_01/Code_12_SmallSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_01/Code_12_SmallSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_02/Code_01_KMP.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_02/Code_01_KMP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_02/Code_02_KMP_ShortestHaveTwice.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_02/Code_02_KMP_ShortestHaveTwice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_02/Code_03_KMP_T1SubtreeEqualsT2.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_02/Code_03_KMP_T1SubtreeEqualsT2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_02/Code_04_Manacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_02/Code_04_Manacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_02/Code_05_Manacher_ShortestEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_02/Code_05_Manacher_ShortestEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_02/Code_06_BFPRT.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_02/Code_06_BFPRT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_03/Code_01_Array_To_Stack_Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_03/Code_01_Array_To_Stack_Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_03/Code_02_GetMinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_03/Code_02_GetMinStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_03/Code_03_StackAndQueueConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_03/Code_03_StackAndQueueConvert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_03/Code_04_DogCatQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_03/Code_04_DogCatQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_03/Code_05_RotateMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_03/Code_05_RotateMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_03/Code_06_PrintMatrixSpiralOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_03/Code_06_PrintMatrixSpiralOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_03/Code_07_ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_03/Code_07_ReverseList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_03/Code_08_ZigZagPrintMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_03/Code_08_ZigZagPrintMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_03/Code_09_FindNumInSortedMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_03/Code_09_FindNumInSortedMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_03/Code_10_PrintCommonPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_03/Code_10_PrintCommonPart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_03/Code_11_IsPalindromeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_03/Code_11_IsPalindromeList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_03/Code_12_SmallerEqualBigger.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_03/Code_12_SmallerEqualBigger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_03/Code_13_CopyListWithRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_03/Code_13_CopyListWithRandom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_03/Code_14_FindFirstIntersectNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_03/Code_14_FindFirstIntersectNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_03/Code_15_FindOneLessValueIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_03/Code_15_FindOneLessValueIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_04/Code_01_PreInPosTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_04/Code_01_PreInPosTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_04/Code_02_PrintBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_04/Code_02_PrintBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_04/Code_03_SuccessorNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_04/Code_03_SuccessorNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_04/Code_04_SerializeAndReconstructTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_04/Code_04_SerializeAndReconstructTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_04/Code_05_PaperFolding.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_04/Code_05_PaperFolding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_04/Code_06_IsBalancedTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_04/Code_06_IsBalancedTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_04/Code_07_IsBSTAndCBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_04/Code_07_IsBSTAndCBT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_04/Code_08_CompleteTreeNodeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_04/Code_08_CompleteTreeNodeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_05/Code_01_HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_05/Code_01_HashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_05/Code_02_RandomPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_05/Code_02_RandomPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_05/Code_03_Islands.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_05/Code_03_Islands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_05/Code_04_UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_05/Code_04_UnionFind.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_06/Code_01_BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_06/Code_01_BFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_06/Code_02_DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_06/Code_02_DFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_06/Code_03_TopologySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_06/Code_03_TopologySort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_06/Code_04_Kruskal.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_06/Code_04_Kruskal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_06/Code_05_Prim.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_06/Code_05_Prim.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_06/Code_06_Dijkstra.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_06/Code_06_Dijkstra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_06/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_06/Edge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_06/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_06/Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_06/GraphGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_06/GraphGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_06/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_06/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_07/Code_01_TrieTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_07/Code_01_TrieTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_07/Code_02_Less_Money.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_07/Code_02_Less_Money.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_07/Code_03_IPO.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_07/Code_03_IPO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_07/Code_04_MadianQuick.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_07/Code_04_MadianQuick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_07/Code_05_LowestLexicography.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_07/Code_05_LowestLexicography.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_07/Code_06_BestArrange.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_07/Code_06_BestArrange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_08/Code_01_Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_08/Code_01_Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_08/Code_02_Hanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_08/Code_02_Hanoi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_08/Code_03_Print_All_Subsquences.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_08/Code_03_Print_All_Subsquences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_08/Code_04_Print_All_Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_08/Code_04_Print_All_Permutations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_08/Code_05_Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_08/Code_05_Cow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_08/Code_06_ReverseStackUsingRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_08/Code_06_ReverseStackUsingRecursive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_08/Code_07_MinPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_08/Code_07_MinPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_08/Code_08_Money_Problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_08/Code_08_Money_Problem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_08/Code_09_Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_08/Code_09_Knapsack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_08/FaceBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_08/FaceBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_class_08/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic_class_08/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_01/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_01/ThreeSumBinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/ThreeSumBinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_01/ThreeSumTwoPointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/ThreeSumTwoPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/LeetCode247_Strobogrammatic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,6 +22,34 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IlluminatedCloudWorkspaceSettings">
+    <option name="projectWorkspaceSettings">
+      <ProjectWorkspaceSettings>
+        <option name="anonymousApexSettings">
+          <AnonymousApexSettings>
+            <option name="savedDocuments">
+              <list>
+                <AnonymousApexSavedDocument>
+                  <option name="name" value="Anonymous Apex 1" />
+                </AnonymousApexSavedDocument>
+              </list>
+            </option>
+          </AnonymousApexSettings>
+        </option>
+        <option name="soqlQuerySettings">
+          <SoqlQuerySettings>
+            <option name="savedDocuments">
+              <list>
+                <SoqlQuerySavedDocument>
+                  <option name="name" value="SOQL Query 1" />
+                </SoqlQuerySavedDocument>
+              </list>
+            </option>
+          </SoqlQuerySettings>
+        </option>
+      </ProjectWorkspaceSettings>
+    </option>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -165,9 +62,35 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="LeetCode247_Strobogrammatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LeetCode247_Strobogrammatic" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LeetCode247_Strobogrammatic" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -180,6 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1595080205276</updated>
       <workItem from="1595080210519" duration="521000" />
+      <workItem from="1595080965276" duration="2285000" />
     </task>
     <servers />
   </component>
@@ -195,5 +119,21 @@
       <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state x="525" y="369" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.830@0.23.1440.830" timestamp="1595080302781" />
+    <state width="1398" height="262" key="GridCell.Tab.0.bottom" timestamp="1595082574965">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1595082574965" />
+    <state width="1398" height="262" key="GridCell.Tab.0.center" timestamp="1595082574964">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1595082574964" />
+    <state width="1398" height="262" key="GridCell.Tab.0.left" timestamp="1595082574963">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1595082574963" />
+    <state width="1398" height="262" key="GridCell.Tab.0.right" timestamp="1595082574964">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1595082574964" />
   </component>
 </project>
