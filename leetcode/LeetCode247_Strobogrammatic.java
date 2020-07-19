@@ -10,7 +10,7 @@ import java.util.List;
 public class LeetCode247_Strobogrammatic {
     public static void main(String[] args) {
         List<String> result = new Solution().findStrobogrammatic(4);
-        System.out.println(result.size());
+//        System.out.println(result.size());
         result.forEach(System.out::println);
     }
 }
